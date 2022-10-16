@@ -1,10 +1,24 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1>
-  hey there
+<h1 align="center">
+I am JYOTI RANJAN  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+aboutMe.js<br>
+const amado = {<br>
+    pronouns: "he" | "him",<br>
+    code: [Javascript, HTML, CSS],<br>
+    askMeAbout: ["my-self"],<br>
+    technologies: {<br>
+        frontEnd: {<br>
+            css: ["bootstrap", "materialize"]<br>
+        },<br>
+        backEnd: {<br>
+            js: ["firebase", "node"]<br>
+        }    <br>    
+    }<br>
+};<br>
 <div align="center">
  🛠 &nbsp;<b>Tech Stack</b><br>
 
