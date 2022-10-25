@@ -5,20 +5,7 @@
 I am JYOTI RANJAN  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<b>aboutMe.js<br>
-const amado = {<br>
-    pronouns: "he" | "him",<br>
-    code: [Javascript, HTML, CSS],<br>
-    askMeAbout: ["my-self"],<br>
-    technologies: {<br>
-        frontEnd: {<br>
-            css: ["bootstrap", "materialize"]<br>
-        },<br>
-        backEnd: {<br>
-            js: ["firebase", "node"]<br>
-        }    <br>    
-    }<br>
-};<br></b>
+
 <div align="center">
  🛠 &nbsp;<b>Tech Stack</b><br>
 
